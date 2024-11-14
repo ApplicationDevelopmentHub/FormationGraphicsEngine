@@ -1,2 +1,4 @@
 # FormationGraphicsEngine
-OpenGL
+##OpenGL
+##GLEW
+##GLFW
